@@ -1,0 +1,33 @@
+.stories{
+
+   
+    padding:5px;
+    margin:auto;
+    
+    justify-content: center;
+    margin-left: 5%;
+    margin-right: 5%;
+   
+}
+img{
+    
+}
+body{
+    font-size: 21px;
+}
+h1{
+    font-family: "Lucida Handwriting", cursive;
+    font-size: 50px;
+}
+h2{
+    font-family: "Lucida Handwriting", cursive;
+    font-size: 40px;
+
+}
+img{
+    
+    border-radius: 6%;
+    
+
+    
+}
